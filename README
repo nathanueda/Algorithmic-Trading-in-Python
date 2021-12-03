@@ -9,7 +9,7 @@ Equal-Weight S&P 500 Index Fund:
 
 Project 2:
 Quantitative Momentum Strategy:
-- Through utilizing batch API calls and various Python libraries (such as numpy and pandas) the program selects a list of the 50 highest quality momentum stocks based on various metrics such as various time length price returns.
+- Through utilizing batch API calls and various Python libraries (such as numpy and pandas) the program selects a list of the 50 highest quality momentum stocks based on various metrics such as varying time length price returns.
 - The program calculates the number of shares to buy based on a user-defined portfolio amount.
 - Exports the results utilizing xlsxwriter to a neatly formatted excel document.
 
