@@ -1,0 +1,21 @@
+Created three separate algorithmic trading prgorams in Python following a course created by Nick McCullum (https://nickmccullum.com/)
+
+Utilized the IEX Cloud API for all three projects.
+
+Project 1:
+Equal-Weight S&P 500 Index Fund:
+- Through utilizing batch API calls and various Python libraries (such as numpy and pandas) the program calculates the number of shares to buy based on a user-defined portfolio value of each S&P 500 constituent to get an equal-weighted version of the index fund.
+- Exports the results utilizing xlsxwriter to a neatly formatted excel document.
+
+Project 2:
+Quantitative Momentum Strategy:
+- Through utilizing batch API calls and various Python libraries (such as numpy and pandas) the program selects a list of the 50 highest quality momentum stocks based on various metrics such as various time length price returns.
+- The program calculates the number of shares to buy based on a user-defined portfolio amount.
+- Exports the results utilizing xlsxwriter to a neatly formatted excel document.
+
+Project 3:
+Quantitative Value Strategy:
+Quantitative Momentum Strategy:
+- Through utilizing batch API calls and various Python libraries (such as numpy and pandas) the program selects a list of the 50 stocks with the best value metrics such as P/E ratio, P/B ratio, P/S ratio, etc.
+- The program calculates the number of shares to buy based on a user-defined portfolio amount.
+- Exports the results utilizing xlsxwriter to a neatly formatted excel document.
